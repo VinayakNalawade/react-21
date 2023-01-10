@@ -1,0 +1,37 @@
+.li {
+  list-style-type: none;
+  border: 1px solid #d7dae6;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+.itemTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.itemheading {
+  color: #52606d;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+.buttonimg {
+  width: 22px;
+}
+
+.itemans {
+  border-top: 1px solid #d7dae6;
+  padding-top: 10px;
+  color: #9aa5b1;
+  font-size: 16px;
+  font-weight: 600;
+}
